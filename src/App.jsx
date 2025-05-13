@@ -1,0 +1,1 @@
+const App = () => <div style={{ color: '#fff', backgroundColor: '#111', padding: '2rem' }}>Triple Flip MVP Loaded</div>; export default App;
